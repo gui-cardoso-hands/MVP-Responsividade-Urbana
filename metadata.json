@@ -1,0 +1,5 @@
+{
+  "name": "MVP Responsividade Urbana - v.2 - teste",
+  "description": "App para visualizar localização e raio de 2.5km com serviços (Saúde, Educação, Lazer, Transporte) filtrados e sem duplicatas.",
+  "requestFramePermissions": []
+}
